@@ -18,3 +18,5 @@ User-friendly button layout
 HTML5 – Structure of the calculator
 CSS3 – Styling and layout (responsive)
 JavaScript (ES6) – Calculator logic and event handling
+
+live link: https://scientific-calculator-beta-eight.vercel.app/
